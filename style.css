@@ -1,0 +1,43 @@
+.dad{
+    text-align: center;
+    border: 1px solid #311313;
+    background-color: #311313;
+    color: white;
+    width: 350px;
+    margin-left: 500px;
+    box-sizing: border-box;
+    margin: 50px auto;
+    font-size: 20px;
+}
+.mom{
+    border: 7px solid red;
+    width: 900px;
+    height: 530px;
+    background-color: black;
+    margin: 50px auto;
+}
+.girl{
+    background-color: aqua;
+    text-align: start;
+    height: 220px;
+    width: 800px;
+    margin: 50px 50px 50px 199px ;
+    font-size: 27px;
+    margin: 30px auto;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.girls{
+    background-color: aqua;
+    text-align: start;
+    height: 220px;
+    width: 800px;
+    margin: 50px 50px 50px 199px ;
+    font-size: 27px;
+    margin: 30px auto;
+    padding: 12px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(34, 34, 100);
+}
